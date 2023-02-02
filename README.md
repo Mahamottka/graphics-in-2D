@@ -8,7 +8,7 @@ P -> for drawing a polygon
     LMB -> draw one polygon
     RMB -> draw a second polygon
   
-T -> for drawin a tryangle (two LMB clicks for a base, third to finish it)
+T -> for drawin a triangle (two LMB clicks for a base, third to finish it)
 D -> for colouring
   within a D mode:
     Numpat (1-9) -> changing the colour of colouring
